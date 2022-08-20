@@ -1,3 +1,3 @@
 # git_test
-First Test
+First Test\n
 Hello Odin!
